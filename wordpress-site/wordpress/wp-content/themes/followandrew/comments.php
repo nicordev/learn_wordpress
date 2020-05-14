@@ -1,0 +1,5 @@
+<?php
+
+/*
+ * Blog post comments
+ */
